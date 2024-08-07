@@ -9,12 +9,5 @@ susunan abjad a-z menggunakan bahasa pemrograman java.
 ## Run Main Class
 SortApplication.java
 
-#### Input :
-
-![Input](src/resource/input.png)
-
-#### Output :
-
-![Output_Program](src/resource/output%20readme.png)
 
 
